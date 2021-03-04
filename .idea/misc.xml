@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/kuangshen/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/spring01-ioc-hellospring/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/spring-ioc3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/spring-04-di/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/spring-05-Autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/spring-06-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/spring-07-appconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/spring-08-proxy/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- 使用spring来创建对象，在spring中这些都成为bean  -->
+    <!--    <bean id="user" class="com.neo.pojo.User">-->
+    <!--        <property name="name" value="梁兵涛"/>-->
+    <!--    </bean>-->
+
+    <!--  使用有参构造  -->
+
+<!--
+  id: bean的唯一标识符，也就是相当于我们的对象名
+  class:bean的全限定名：包名+类名
+  name:也是别名，而且可以同时取多个别名
+  -->
+    <bean id="user" class="com.neo.pojo.User">
+        <!--  第1种、下标赋值  -->
+        <!--        <constructor-arg index="0" value="梁兵涛-1"/>-->
+        <!--  第2种、类型匹配  -->
+        <!--        <constructor-arg type="java.lang.String" value="梁兵涛-2"/>-->
+        <constructor-arg name="name" value="梁兵涛-3"/>
+    </bean>
+
+    <!--如果添加了别名，也可以通过别名获取到对象-->
+    <alias name="user" alias="userAlias"/>
+
+</beans>
