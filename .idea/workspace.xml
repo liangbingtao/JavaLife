@@ -38,44 +38,48 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/spring-ioc3/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/spring-08-proxy/src/main/java/com/neo/demo03" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\code\JavaLife\spring" />
-      <recent name="E:\code\JavaLife" />
-      <recent name="E:\code\JavaLife\kuangshen\src\main\java\com\neo\study\javaScript\js" />
-      <recent name="E:\code\JavaLife\kuangshen\src\main\java\com\neo\study\javaScript" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.neo" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="pojo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\JavaLife\spring\spring-08-proxy\src\main\java\com\neo\demo03" />
       <recent name="E:\code\JavaLife\spring\spring-ioc3\src\main\resources" />
       <recent name="E:\code\JavaLife\spring\spring-ioc3" />
       <recent name="E:\code\JavaLife\spring\spring-ioc2" />
       <recent name="E:\code\JavaLife\spring01-ioc-hellospring\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.neo.demo04" />
+      <recent name="pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\JavaLife\spring\spring-10-mybatis\src\main\java\com\neo\mapper" />
+      <recent name="E:\code\JavaLife\spring\spring-10-mybatis\src\main\resources\mapper" />
+      <recent name="E:\code\JavaLife\spring" />
       <recent name="E:\code\JavaLife" />
+      <recent name="E:\code\JavaLife\kuangshen\src\main\java\com\neo\study\javaScript\js" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neo.demo01.Client" />
+  <component name="RunManager" selected="Application.MyText">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.demo02.Client" />
       <module name="spring-08-proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neo.demo01.*" />
+          <option name="PATTERN" value="com.neo.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,45 +87,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <module name="spring-ioc3" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.demo03.Client" />
+      <module name="spring-08-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <module name="spring-07-appconfig" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.demo04.Client" />
+      <module name="spring-08-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <module name="spring01-ioc-hellospring" />
+    <configuration name="MyText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyText" />
+      <module name="spring-09-aop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTet.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-05-Autowired" />
+    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-10-mybatis" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyTet" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,20 +149,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MyTet.test1" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.MyText" />
+      <item itemvalue="JUnit.MyTest.test" />
       <item itemvalue="Spring Boot.StudyApplication" />
-      <item itemvalue="Application.MyTest" />
-      <item itemvalue="Application.MyTest (1)" />
-      <item itemvalue="Application.MyTest (2)" />
-      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.MyTest (2)" />
-        <item itemvalue="JUnit.MyTet.test1" />
-        <item itemvalue="Application.MyTest (1)" />
-        <item itemvalue="Application.MyTest" />
+        <item itemvalue="Application.MyText" />
+        <item itemvalue="JUnit.MyTest.test" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +204,7 @@
       <workItem from="1611385679048" duration="7155000" />
       <workItem from="1611491373685" duration="7687000" />
       <workItem from="1611544685178" duration="9763000" />
-      <workItem from="1614755230305" duration="12191000" />
+      <workItem from="1614755230305" duration="39103000" />
     </task>
     <servers />
   </component>
@@ -198,24 +212,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="0" key="#Project_Structure" timestamp="1614847134137">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1614931577919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614847134137" />
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614931577919" />
     <state x="1595" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611551865640" />
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614755683483">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614932542078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614755683483" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614932542078" />
+    <state x="1559" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614929806982" />
     <state x="2072" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611496465752">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2072" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611496465752" />
-    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1614858743495">
+    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1614935541885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614858743495" />
-    <state x="2131" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611558749144" />
+    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614935541885" />
+    <state x="2131" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614914779932" />
     <state x="389" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1611390029416">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -229,26 +244,26 @@
     </state>
     <state x="479" y="71" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388937522" />
     <state x="2039" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1610203874869" />
-    <state width="1322" height="238" key="GridCell.Tab.0.bottom" timestamp="1614858826227">
+    <state width="1322" height="252" key="GridCell.Tab.0.bottom" timestamp="1614941775230">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="238" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614858826227" />
-    <state width="1876" height="300" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611574790441" />
-    <state width="1322" height="238" key="GridCell.Tab.0.center" timestamp="1614858826227">
+    <state width="1322" height="252" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614941775230" />
+    <state width="1876" height="414" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927415391" />
+    <state width="1322" height="252" key="GridCell.Tab.0.center" timestamp="1614941775230">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="238" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614858826227" />
-    <state width="1876" height="300" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611574790441" />
-    <state width="1322" height="238" key="GridCell.Tab.0.left" timestamp="1614858826227">
+    <state width="1322" height="252" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614941775230" />
+    <state width="1876" height="414" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927415390" />
+    <state width="1322" height="252" key="GridCell.Tab.0.left" timestamp="1614941775230">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="238" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614858826227" />
-    <state width="1876" height="300" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611574790441" />
-    <state width="1322" height="238" key="GridCell.Tab.0.right" timestamp="1614858826227">
+    <state width="1322" height="252" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614941775230" />
+    <state width="1876" height="414" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927415390" />
+    <state width="1322" height="252" key="GridCell.Tab.0.right" timestamp="1614941775230">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="238" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614858826227" />
-    <state width="1876" height="300" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611574790441" />
+    <state width="1322" height="252" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614941775230" />
+    <state width="1876" height="414" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927415391" />
     <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1614755779602">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -278,11 +293,19 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="348" y="67" key="NewModule_or_Project.wizard/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388939623" />
-    <state x="1625" y="0" key="SettingsEditor" timestamp="1611497070253">
+    <state x="1625" y="0" key="SettingsEditor" timestamp="1614914049466">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611389998230" />
-    <state x="1625" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611497070253" />
+    <state x="1625" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614914049466" />
+    <state x="554" y="231" width="316" height="266" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1614930204208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="554" y="231" width="316" height="266" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614930204208" />
+    <state x="479" y="179" width="407" height="358" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1614930176245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="179" width="407" height="358" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614930176245" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1611388323935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -291,24 +314,24 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388323935" />
-    <state x="131" y="33" key="new project wizard" timestamp="1614858547408">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1550" y="49" key="new project wizard" timestamp="1614927395995">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="131" y="33" key="new project wizard/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614858547408" />
-    <state x="1550" y="49" key="new project wizard/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611558674215" />
+    <state x="1550" y="49" key="new project wizard/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927395995" />
     <state x="339" y="157" key="run.anything.popup" timestamp="1611388737390">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="157" key="run.anything.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388737390" />
-    <state x="1852" y="73" width="945" height="1006" key="search.everywhere.popup" timestamp="1611560528910">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611386615609" />
-    <state x="1852" y="73" width="945" height="1006" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611560528910" />
-    <state x="363" y="46" key="spring file set editor" timestamp="1614755808739">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1614933798922">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="46" key="spring file set editor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614755808739" />
-    <state x="1876" y="68" key="spring file set editor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611551877772" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614933798922" />
+    <state x="1852" y="73" width="945" height="1006" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614926100855" />
+    <state x="363" y="46" key="spring file set editor" timestamp="1614936292017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="46" key="spring file set editor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614936292017" />
+    <state x="1876" y="68" key="spring file set editor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614914947174" />
   </component>
 </project>

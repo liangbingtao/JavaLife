@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring/spring-06-annotation/spring-06-annotation.iml" filepath="$PROJECT_DIR$/spring/spring-06-annotation/spring-06-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-07-appconfig/spring-07-appconfig.iml" filepath="$PROJECT_DIR$/spring/spring-07-appconfig/spring-07-appconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-08-proxy/spring-08-proxy.iml" filepath="$PROJECT_DIR$/spring/spring-08-proxy/spring-08-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring-09-aop/spring-09-aop.iml" filepath="$PROJECT_DIR$/spring/spring-09-aop/spring-09-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring-10-mybatis/spring-10-mybatis.iml" filepath="$PROJECT_DIR$/spring/spring-10-mybatis/spring-10-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-ioc3/spring-ioc3.iml" filepath="$PROJECT_DIR$/spring/spring-ioc3/spring-ioc3.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring01-ioc-hellospring/spring01-ioc-hellospring.iml" filepath="$PROJECT_DIR$/spring/spring01-ioc-hellospring/spring01-ioc-hellospring.iml" />
       <module fileurl="file://$PROJECT_DIR$/kuangshen/study.iml" filepath="$PROJECT_DIR$/kuangshen/study.iml" />

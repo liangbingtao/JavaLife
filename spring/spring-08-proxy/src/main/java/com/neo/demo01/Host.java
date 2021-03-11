@@ -5,7 +5,7 @@ package com.neo.demo01;
  * Date 2021/3/4 19:51
  */
 
-//真实角色
+//真实角色--房东
 public class Host implements Rent{
 
 
