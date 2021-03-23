@@ -3,8 +3,116 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0447f448-8bfa-46a2-a7e0-d78452b14c40" name="Default Changelist" comment="" />
+    <list default="true" id="0447f448-8bfa-46a2-a7e0-d78452b14c40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DesignPattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/AmericanCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/AmericanDessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/Dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/DessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/ItealyDessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/LatteCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/MatchaMousse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/Trimisu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/AmericanCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/AmericanCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/CoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/CoffeeStroe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/LatteCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/LatteCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/AmericanCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/CoffeeStroe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/LatteCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/AmericanCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/CoffeeStroe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/LatteCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo01/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo01/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo02/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo02/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo03/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo03/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo04/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo04/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo05/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo05/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo06/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo06/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo07/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo07/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo08/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo08/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo01/Citation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo01/CitationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo02/Citation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo02/PrototypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo03/Citation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo03/PrototypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/CGlib_Proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/CGlib_Proxy/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/CGlib_Proxy/TrainStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/SellTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/TrainStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/ProxyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/SellTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/TrainStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/test/java/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/PrintList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/ReplaceBlank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/SlideWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo01/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo01/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/ThreadCaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo03/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo03/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo03/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo03/ThreadCaseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuangshen/src/test/java/com/neo/study/StudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/kuangshen/src/test/java/com/neo/study/StudyApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuangshen/target/test-classes/com/neo/study/StudyApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/kuangshen/target/test-classes/com/neo/study/StudyApplicationTests.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +128,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -34,37 +145,27 @@
     </option>
   </component>
   <component name="ProjectId" id="1kjM5fWn5CXgDuLpYnTuD2amhxA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/spring-08-proxy/src/main/java/com/neo/demo03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.neo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\code\JavaLife\spring\spring-08-proxy\src\main\java\com\neo\demo03" />
-      <recent name="E:\code\JavaLife\spring\spring-ioc3\src\main\resources" />
-      <recent name="E:\code\JavaLife\spring\spring-ioc3" />
-      <recent name="E:\code\JavaLife\spring\spring-ioc2" />
-      <recent name="E:\code\JavaLife\spring01-ioc-hellospring\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.neo.demo04" />
-      <recent name="pojo" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\code\JavaLife\spring\spring-10-mybatis\src\main\java\com\neo\mapper" />
       <recent name="E:\code\JavaLife\spring\spring-10-mybatis\src\main\resources\mapper" />
@@ -72,14 +173,29 @@
       <recent name="E:\code\JavaLife" />
       <recent name="E:\code\JavaLife\kuangshen\src\main\java\com\neo\study\javaScript\js" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.neo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.neo.Singleton.demo2" />
+      <recent name="com.neo.demo04" />
+      <recent name="pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\structure\Proxy\JDK_Proxy" />
+      <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\prototype\demo03" />
+      <recent name="E:\code\JavaLife\kuangshen\src\main\java\com\neo\study\Runnable\demo03" />
+      <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\Factory\AbstractFactory" />
+      <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\Factory\FactoryMethod" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MyText">
+  <component name="RunManager" selected="Application.Client (1)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neo.demo02.Client" />
-      <module name="spring-08-proxy" />
+      <option name="MAIN_CLASS_NAME" value="com.neo.structure.Proxy.CGlib_Proxy.Client" />
+      <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neo.demo02.*" />
+          <option name="PATTERN" value="com.neo.structure.Proxy.CGlib_Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neo.demo03.Client" />
-      <module name="spring-08-proxy" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.structure.Proxy.StaticProxy.Client" />
+      <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neo.demo03.*" />
+          <option name="PATTERN" value="com.neo.structure.Proxy.StaticProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neo.demo04.Client" />
-      <module name="spring-08-proxy" />
+    <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.creator.Singleton.demo08.SingletonDemo" />
+      <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neo.demo04.*" />
+          <option name="PATTERN" value="com.neo.creator.Singleton.demo08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,29 +229,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyText" />
-      <module name="spring-09-aop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-10-mybatis" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <option name="METHOD_NAME" value="test" />
+    <configuration name="StudyApplicationTests.bigDecimalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neo.study" />
+      <option name="MAIN_CLASS_NAME" value="com.neo.study.StudyApplicationTests" />
+      <option name="METHOD_NAME" value="bigDecimalTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyApplicationTests.dateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neo.study" />
+      <option name="MAIN_CLASS_NAME" value="com.neo.study.StudyApplicationTests" />
+      <option name="METHOD_NAME" value="dateTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,20 +282,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client (1)" />
-      <item itemvalue="Application.Client (2)" />
-      <item itemvalue="Application.Client (3)" />
-      <item itemvalue="Application.MyText" />
-      <item itemvalue="JUnit.MyTest.test" />
+      <item itemvalue="Application.SingletonDemo" />
       <item itemvalue="Spring Boot.StudyApplication" />
+      <item itemvalue="JUnit.StudyApplicationTests.dateTest" />
+      <item itemvalue="JUnit.StudyApplicationTests.bigDecimalTest" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyText" />
-        <item itemvalue="JUnit.MyTest.test" />
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="JUnit.StudyApplicationTests.bigDecimalTest" />
+        <item itemvalue="JUnit.StudyApplicationTests.dateTest" />
+        <item itemvalue="Application.SingletonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -205,17 +338,42 @@
       <workItem from="1611491373685" duration="7687000" />
       <workItem from="1611544685178" duration="9763000" />
       <workItem from="1614755230305" duration="39103000" />
+      <workItem from="1615473983118" duration="6372000" />
+      <workItem from="1615530868642" duration="9011000" />
+      <workItem from="1615562961608" duration="9009000" />
+      <workItem from="1615705187517" duration="5432000" />
+      <workItem from="1615725163971" duration="406000" />
+      <workItem from="1615810991676" duration="190000" />
+      <workItem from="1615962201478" duration="3386000" />
+      <workItem from="1616075121721" duration="28000" />
+      <workItem from="1616145237186" duration="14593000" />
+      <workItem from="1616465605737" duration="9909000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="0" key="#Project_Structure" timestamp="1614931577919">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1616226478588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614931577919" />
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616226478588" />
     <state x="1595" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611551865640" />
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614932542078">
       <screen x="0" y="0" width="1366" height="728" />
@@ -226,15 +384,15 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2072" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611496465752" />
-    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1614935541885">
+    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1616491533369">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614935541885" />
-    <state x="2131" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614914779932" />
-    <state x="389" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1611390029416">
+    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616491533369" />
+    <state x="2131" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616147562904" />
+    <state x="389" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1616481904355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611390029416" />
+    <state x="389" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616481904355" />
     <state x="408" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1611390032774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -244,42 +402,46 @@
     </state>
     <state x="479" y="71" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388937522" />
     <state x="2039" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1610203874869" />
-    <state width="1322" height="252" key="GridCell.Tab.0.bottom" timestamp="1614941775230">
+    <state width="1322" height="242" key="GridCell.Tab.0.bottom" timestamp="1616489415395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="252" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614941775230" />
-    <state width="1876" height="414" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927415391" />
-    <state width="1322" height="252" key="GridCell.Tab.0.center" timestamp="1614941775230">
+    <state width="1322" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489415395" />
+    <state width="1876" height="398" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616216889068" />
+    <state width="1322" height="242" key="GridCell.Tab.0.center" timestamp="1616489415395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="252" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614941775230" />
-    <state width="1876" height="414" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927415390" />
-    <state width="1322" height="252" key="GridCell.Tab.0.left" timestamp="1614941775230">
+    <state width="1322" height="242" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489415395" />
+    <state width="1876" height="398" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616216889068" />
+    <state width="1322" height="242" key="GridCell.Tab.0.left" timestamp="1616489415395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="252" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614941775230" />
-    <state width="1876" height="414" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927415390" />
-    <state width="1322" height="252" key="GridCell.Tab.0.right" timestamp="1614941775230">
+    <state width="1322" height="242" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489415395" />
+    <state width="1876" height="398" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616216889068" />
+    <state width="1322" height="242" key="GridCell.Tab.0.right" timestamp="1616489415395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="252" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614941775230" />
-    <state width="1876" height="414" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927415391" />
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1614755779602">
+    <state width="1322" height="242" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489415395" />
+    <state width="1876" height="398" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616216889068" />
+    <state width="1322" height="238" key="GridCell.Tab.1.bottom" timestamp="1616469055412">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614755779602" />
-    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1614755779602">
+    <state width="1322" height="238" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616469055412" />
+    <state width="1876" height="286" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615685903947" />
+    <state width="1322" height="238" key="GridCell.Tab.1.center" timestamp="1616469055411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614755779602" />
-    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1614755779601">
+    <state width="1322" height="238" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616469055411" />
+    <state width="1876" height="286" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615685903947" />
+    <state width="1322" height="238" key="GridCell.Tab.1.left" timestamp="1616469055411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614755779601" />
-    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1614755779602">
+    <state width="1322" height="238" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616469055411" />
+    <state width="1876" height="286" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615685903947" />
+    <state width="1322" height="238" key="GridCell.Tab.1.right" timestamp="1616469055412">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614755779602" />
+    <state width="1322" height="238" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616469055412" />
+    <state width="1876" height="286" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615685903947" />
     <state x="263" y="98" key="IDE.errors.dialog" timestamp="1611386996081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -293,10 +455,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="348" y="67" key="NewModule_or_Project.wizard/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388939623" />
-    <state x="1625" y="0" key="SettingsEditor" timestamp="1614914049466">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1616489144506">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611389998230" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489144506" />
     <state x="1625" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614914049466" />
     <state x="554" y="231" width="316" height="266" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1614930204208">
       <screen x="0" y="0" width="1366" height="728" />
@@ -314,24 +476,44 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388323935" />
-    <state x="1550" y="49" key="new project wizard" timestamp="1614927395995">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="500" height="350" key="documentation.popup.size" timestamp="1615477371541">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="131" y="33" key="new project wizard/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614858547408" />
+    <state width="500" height="350" key="documentation.popup.size/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1615477371541" />
+    <state x="131" y="33" key="new project wizard" timestamp="1615962249212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="33" key="new project wizard/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1615962249212" />
     <state x="1550" y="49" key="new project wizard/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927395995" />
     <state x="339" y="157" key="run.anything.popup" timestamp="1611388737390">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="157" key="run.anything.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388737390" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1614933798922">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1616208531969">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614933798922" />
-    <state x="1852" y="73" width="945" height="1006" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614926100855" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616208531969" />
+    <state x="1852" y="73" width="945" height="1006" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615964091505" />
     <state x="363" y="46" key="spring file set editor" timestamp="1614936292017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="46" key="spring file set editor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1614936292017" />
     <state x="1876" y="68" key="spring file set editor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614914947174" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/PrintList.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/ThreadCaseDemo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
