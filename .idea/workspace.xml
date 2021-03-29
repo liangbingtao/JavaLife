@@ -23,93 +23,170 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0447f448-8bfa-46a2-a7e0-d78452b14c40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignPattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/AmericanCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/AmericanDessertFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/Dessert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/DessertFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/ItealyDessertFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/LatteCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/MatchaMousse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/AbstractFactory/Trimisu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/AmericanCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/AmericanCoffeeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/CoffeeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/CoffeeStroe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/LatteCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/FactoryMethod/LatteCoffeeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/AmericanCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/CoffeeStroe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/LatteCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/SimpleFactory/SimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/AmericanCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/CoffeeStroe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/LatteCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Factory/StaticFactory/SimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo01/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo01/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo02/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo02/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo03/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo03/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo04/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo04/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo05/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo05/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo06/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo06/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo07/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo07/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo08/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/Singleton/demo08/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo01/Citation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo01/CitationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo02/Citation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo02/PrototypeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo03/Citation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo03/PrototypeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/CGlib_Proxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/CGlib_Proxy/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/CGlib_Proxy/TrainStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/SellTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/TrainStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/ProxyPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/SellTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/TrainStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/test/java/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/MaxQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/MaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/PrintList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/ReplaceBlank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/SlideWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/com/neo/dataStructure/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo01/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo01/RunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/ThreadCaseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo03/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo03/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo03/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo03/ThreadCaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/command/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/command/OrderCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/command/SeniorChef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/command/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/interpreter/AbstractExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/interpreter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/interpreter/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/interpreter/Minus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/interpreter/Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/interpreter/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/interpreter/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/StudentAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/StudentAggregateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/StudentIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/StudentIteratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/after/Aggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/after/AggregateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/after/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/after/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/after/IteratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/after/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/iterator/after/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/mediator/HouseOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/mediator/MediatorStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/mediator/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/mediator/Tenant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/memento/black_box/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/memento/black_box/GameRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/memento/black_box/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/memento/black_box/RoleStateCaretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/memento/white_box/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/memento/white_box/GameRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/memento/white_box/RoleStateCaretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/memento/white_box/RoleStateMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/observer/SubscriptionSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/observer/WechatUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/responsibility/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/responsibility/GeneralManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/responsibility/GroupLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/responsibility/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/responsibility/LeaveRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/responsibility/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/after/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/after/ClosingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/after/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/after/LiftState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/after/OpenningState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/after/RunningState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/after/StoppingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/before/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/before/ILift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/state/before/Lift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/strategy/SaleMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/strategy/StrategyA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/strategy/StrategyB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/strategy/StrategyC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/template/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/template/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/template/ConcreteClass_BaoCai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/template/Concrete_CaiXin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/visitor/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/visitor/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/visitor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/visitor/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/visitor/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/visitor/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/visitor/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/visitor/Someone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo/PrototypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo/Realizetype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo05/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/creator/prototype/demo05/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/classAdapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/classAdapter/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/classAdapter/SDAdapterTF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/classAdapter/SDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/classAdapter/SDCardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/classAdapter/TFCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/classAdapter/TFCardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/objectAdapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/objectAdapter/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/objectAdapter/SDAdapterTF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/objectAdapter/SDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/objectAdapter/SDCardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/objectAdapter/TFCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/adapter/objectAdapter/TFCardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/bridge/AVIFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/bridge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/bridge/Mac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/bridge/OperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/bridge/RMVBFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/bridge/VideoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/bridge/Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/component/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/component/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/component/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/component/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator/Bacon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator/Egg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator/FastFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator/FiredNoodles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator/FiredRice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator/Garnish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator02/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator02/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator02/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator02/RedShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator02/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/decorator02/ShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/facade/AirCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/facade/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/facade/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/facade/SmartAppliancesFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/facade/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/flyweight/AbstractBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/flyweight/BoxFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/flyweight/Clent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/flyweight/IBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/flyweight/LBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/flyweight/OBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/test/Agent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/test/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/test/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/test/Fans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/test/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/test/test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/CGlib_Proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/CGlib_Proxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/CGlib_Proxy/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/CGlib_Proxy/ProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/CGlib_Proxy/TrainStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/CGlib_Proxy/TrainStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/JDK_Proxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/JDK_Proxy/ProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/SellTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/JDK_Proxy/SellTickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy/TrainStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/JDK_Proxy/TrainStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/StaticProxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/ProxyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/StaticProxy/ProxyPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/SellTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/StaticProxy/SellTickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/StaticProxy/TrainStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/proxy/StaticProxy/TrainStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/test/java/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/test/java/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/CGlib_Proxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/CGlib_Proxy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/CGlib_Proxy/ProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/CGlib_Proxy/ProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/CGlib_Proxy/TrainStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/CGlib_Proxy/TrainStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/ProxyFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/ProxyFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/ProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/ProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/SellTickets.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/SellTickets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/TrainStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/JDK_Proxy/TrainStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/StaticProxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/StaticProxy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/StaticProxy/ProxyPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/StaticProxy/ProxyPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/StaticProxy/SellTickets.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/StaticProxy/SellTickets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/StaticProxy/TrainStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/neo/structure/Proxy/StaticProxy/TrainStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/target/test-classes/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/target/test-classes/TestDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kuangshen/src/test/java/com/neo/study/StudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/kuangshen/src/test/java/com/neo/study/StudyApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kuangshen/target/test-classes/com/neo/study/StudyApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/kuangshen/target/test-classes/com/neo/study/StudyApplicationTests.class" afterDir="false" />
     </list>
@@ -123,6 +200,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -158,12 +236,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/Proxy/JDK_Proxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/behavor/memento/black_box" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -177,25 +255,53 @@
       <recent name="com.neo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.neo.Singleton.demo2" />
-      <recent name="com.neo.demo04" />
-      <recent name="pojo" />
+      <recent name="com.neo.behavor.interpreter" />
+      <recent name="com.neo.behavor.visitor" />
+      <recent name="com.neo.behavor.state.after" />
+      <recent name="com.neo.behavor.responsibility" />
+      <recent name="com.neo.behavor.strategy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\behavor\memento\black_box" />
+      <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\behavor\iterator\after" />
+      <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\structure\adapter\objectAdapter" />
       <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\structure\Proxy\JDK_Proxy" />
       <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\prototype\demo03" />
-      <recent name="E:\code\JavaLife\kuangshen\src\main\java\com\neo\study\Runnable\demo03" />
-      <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\Factory\AbstractFactory" />
-      <recent name="E:\code\JavaLife\DesignPattern\src\main\java\com\neo\Factory\FactoryMethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neo.structure.Proxy.CGlib_Proxy.Client" />
+  <component name="RunManager" selected="Application.Client (2)">
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.creator.prototype.demo05.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neo.structure.Proxy.CGlib_Proxy.*" />
+          <option name="PATTERN" value="com.neo.creator.prototype.demo05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.behavor.memento.white_box.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.behavor.memento.white_box.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.behavor.memento.black_box.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.behavor.memento.black_box.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +310,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neo.structure.Proxy.StaticProxy.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.neo.behavor.interpreter.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neo.structure.Proxy.StaticProxy.*" />
+          <option name="PATTERN" value="com.neo.behavor.interpreter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +322,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neo.creator.Singleton.demo08.SingletonDemo" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.structure.proxy.CGlib_Proxy.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neo.creator.Singleton.demo08.*" />
+          <option name="PATTERN" value="com.neo.structure.proxy.CGlib_Proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrototypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.creator.prototype.demo.PrototypeTest" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.creator.prototype.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,38 +361,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudyApplicationTests.bigDecimalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.neo.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.neo.study" />
-      <option name="MAIN_CLASS_NAME" value="com.neo.study.StudyApplicationTests" />
-      <option name="METHOD_NAME" value="bigDecimalTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudyApplicationTests.dateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.neo.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.neo.study" />
-      <option name="MAIN_CLASS_NAME" value="com.neo.study.StudyApplicationTests" />
-      <option name="METHOD_NAME" value="dateTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="study" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.study.StudyApplication" />
@@ -282,20 +369,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SingletonDemo" />
       <item itemvalue="Spring Boot.StudyApplication" />
-      <item itemvalue="JUnit.StudyApplicationTests.dateTest" />
-      <item itemvalue="JUnit.StudyApplicationTests.bigDecimalTest" />
+      <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (5)" />
       <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.PrototypeTest" />
+      <item itemvalue="Application.Client (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.PrototypeTest" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="JUnit.StudyApplicationTests.bigDecimalTest" />
-        <item itemvalue="JUnit.StudyApplicationTests.dateTest" />
-        <item itemvalue="Application.SingletonDemo" />
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +434,9 @@
       <workItem from="1615962201478" duration="3386000" />
       <workItem from="1616075121721" duration="28000" />
       <workItem from="1616145237186" duration="14593000" />
-      <workItem from="1616465605737" duration="9909000" />
+      <workItem from="1616465605737" duration="15932000" />
+      <workItem from="1616585714457" duration="9838000" />
+      <workItem from="1616728233765" duration="39255000" />
     </task>
     <servers />
   </component>
@@ -384,10 +473,10 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2072" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611496465752" />
-    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1616491533369">
+    <state x="544" y="94" width="477" height="490" key="#com.intellij.ide.util.MemberChooser" timestamp="1617002731520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="544" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616491533369" />
+    <state x="544" y="94" width="477" height="490" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617002731520" />
     <state x="2131" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616147562904" />
     <state x="389" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1616481904355">
       <screen x="0" y="0" width="1366" height="728" />
@@ -397,51 +486,55 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="408" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611390032774" />
-    <state x="479" y="71" key="FileChooserDialogImpl" timestamp="1611388937522">
+    <state x="342" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616980888145">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="71" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388937522" />
+    <state x="342" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616980888145" />
+    <state x="479" y="71" key="FileChooserDialogImpl" timestamp="1616589191165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="71" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616589191165" />
     <state x="2039" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1610203874869" />
-    <state width="1322" height="242" key="GridCell.Tab.0.bottom" timestamp="1616489415395">
+    <state width="1322" height="220" key="GridCell.Tab.0.bottom" timestamp="1617003663661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489415395" />
-    <state width="1876" height="398" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616216889068" />
-    <state width="1322" height="242" key="GridCell.Tab.0.center" timestamp="1616489415395">
+    <state width="1322" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617003663661" />
+    <state width="1876" height="396" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616733194646" />
+    <state width="1322" height="220" key="GridCell.Tab.0.center" timestamp="1617003663660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="242" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489415395" />
-    <state width="1876" height="398" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616216889068" />
-    <state width="1322" height="242" key="GridCell.Tab.0.left" timestamp="1616489415395">
+    <state width="1322" height="220" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617003663660" />
+    <state width="1876" height="396" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616733194644" />
+    <state width="1322" height="220" key="GridCell.Tab.0.left" timestamp="1617003663660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="242" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489415395" />
-    <state width="1876" height="398" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616216889068" />
-    <state width="1322" height="242" key="GridCell.Tab.0.right" timestamp="1616489415395">
+    <state width="1322" height="220" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617003663660" />
+    <state width="1876" height="396" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616733194644" />
+    <state width="1322" height="220" key="GridCell.Tab.0.right" timestamp="1617003663661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="242" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489415395" />
-    <state width="1876" height="398" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616216889068" />
-    <state width="1322" height="238" key="GridCell.Tab.1.bottom" timestamp="1616469055412">
+    <state width="1322" height="220" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617003663661" />
+    <state width="1876" height="396" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616733194645" />
+    <state width="1322" height="262" key="GridCell.Tab.1.bottom" timestamp="1616838604975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="238" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616469055412" />
-    <state width="1876" height="286" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615685903947" />
-    <state width="1322" height="238" key="GridCell.Tab.1.center" timestamp="1616469055411">
+    <state width="1322" height="262" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616838604975" />
+    <state width="1876" height="352" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616733141488" />
+    <state width="1322" height="262" key="GridCell.Tab.1.center" timestamp="1616838604975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="238" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616469055411" />
-    <state width="1876" height="286" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615685903947" />
-    <state width="1322" height="238" key="GridCell.Tab.1.left" timestamp="1616469055411">
+    <state width="1322" height="262" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616838604975" />
+    <state width="1876" height="352" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616733141488" />
+    <state width="1322" height="262" key="GridCell.Tab.1.left" timestamp="1616838604975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="238" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616469055411" />
-    <state width="1876" height="286" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615685903947" />
-    <state width="1322" height="238" key="GridCell.Tab.1.right" timestamp="1616469055412">
+    <state width="1322" height="262" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616838604975" />
+    <state width="1876" height="352" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616733141488" />
+    <state width="1322" height="262" key="GridCell.Tab.1.right" timestamp="1616838604975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="238" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616469055412" />
-    <state width="1876" height="286" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615685903947" />
+    <state width="1322" height="262" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616838604975" />
+    <state width="1876" height="352" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1616733141488" />
     <state x="263" y="98" key="IDE.errors.dialog" timestamp="1611386996081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -455,10 +548,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="348" y="67" key="NewModule_or_Project.wizard/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388939623" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1616489144506">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1616836823983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616489144506" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616836823983" />
     <state x="1625" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614914049466" />
     <state x="554" y="231" width="316" height="266" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1614930204208">
       <screen x="0" y="0" width="1366" height="728" />
@@ -476,6 +569,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388323935" />
+    <state x="139" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616981310810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="139" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616981310810" />
     <state width="500" height="350" key="documentation.popup.size" timestamp="1615477371541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -485,14 +582,14 @@
     </state>
     <state x="131" y="33" key="new project wizard/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1615962249212" />
     <state x="1550" y="49" key="new project wizard/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1614927395995" />
-    <state x="339" y="157" key="run.anything.popup" timestamp="1611388737390">
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup" timestamp="1616566205571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="157" key="run.anything.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1611388737390" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1616208531969">
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616566205571" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1617003635342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1616208531969" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617003635342" />
     <state x="1852" y="73" width="945" height="1006" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615964091505" />
     <state x="363" y="46" key="spring file set editor" timestamp="1614936292017">
       <screen x="0" y="0" width="1366" height="728" />
@@ -512,6 +609,16 @@
           <url>file://$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/Runnable/demo02/ThreadCaseDemo.java</url>
           <line>8</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/component/Client.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DesignPattern/src/main/java/com/neo/structure/component/Client.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

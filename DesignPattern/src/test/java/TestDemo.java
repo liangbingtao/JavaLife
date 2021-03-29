@@ -1,4 +1,5 @@
 import org.junit.Test;
+import sun.management.Agent;
 
 /**
  * @Description Author neo
@@ -6,9 +7,4 @@ import org.junit.Test;
  */
 public class TestDemo {
 
-    @Test
-    public void test01(){
-
-
-    }
 }

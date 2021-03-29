@@ -6,6 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import java.math.BigDecimal;
 import java.text.SimpleDateFormat;
 import java.util.ArrayDeque;
+import java.util.Arrays;
 import java.util.Date;
 
 @SpringBootTest
@@ -41,6 +42,10 @@ class StudyApplicationTests {
         BigDecimal bigDecimal2 = new BigDecimal(j);
         BigDecimal divide = bigDecimal1.divide(bigDecimal2,4,BigDecimal.ROUND_HALF_UP);
         System.out.println(divide);
+        // String s="helloworld";
+        // String substring = s.substring(1);
+        // System.out.println(substring);
+
     }
 
 }
