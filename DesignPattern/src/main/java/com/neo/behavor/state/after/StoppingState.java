@@ -5,7 +5,7 @@ package com.neo.behavor.state.after;
  * @Date 2021/3/28 10:32
  * @Description : 具体角色类
  */
-public class StoppingState extends LiftState{
+public class StoppingState extends LiftState {
 
     //停止状态可以开门
     public void open() {

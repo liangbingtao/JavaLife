@@ -5,7 +5,7 @@ package com.neo.structure.decorator02;
  * @Date 2021/3/25 9:35
  * @Description : TODO
  */
-public class RedShapeDecorator extends ShapeDecorator{
+public class RedShapeDecorator extends ShapeDecorator {
 
 
     public RedShapeDecorator(Shape decoratedShape) {
@@ -18,7 +18,7 @@ public class RedShapeDecorator extends ShapeDecorator{
         setRedBorder(decoratedShape);
     }
 
-    private void setRedBorder(Shape decoratedShape){
+    private void setRedBorder(Shape decoratedShape) {
         System.out.println("Border Color : Red");
     }
 }

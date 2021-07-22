@@ -22,7 +22,6 @@ public class IteratorImpl<T> implements Iterator<T> {
     }
 
 
-
     public T next() {
         T current = list.get(position);
         position++;

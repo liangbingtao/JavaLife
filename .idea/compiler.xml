@@ -8,15 +8,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-04-di" />
+        <module name="spring-06-annotation" />
+        <module name="DesignPattern" />
+        <module name="springbooot-01-helloworld" />
+        <module name="spring-08-proxy" />
+        <module name="Springboot-Security" />
         <module name="spring-10-mybatis" />
         <module name="spring01-ioc-hellospring" />
         <module name="spring-ioc3" />
         <module name="spring-09-aop" />
-        <module name="spring-06-annotation" />
-        <module name="DesignPattern" />
         <module name="spring-07-appconfig" />
+        <module name="Springboot" />
+        <module name="springboot-security" />
         <module name="spring-05-Autowired" />
-        <module name="spring-08-proxy" />
         <module name="LeetCode" />
       </profile>
     </annotationProcessing>
@@ -37,14 +41,24 @@
       <module name="spring-ioc3" target="1.7" />
       <module name="spring01-ioc-hellospring" target="1.7" />
       <module name="spring03-ioc2" target="1.5" />
+      <module name="springbooot-01-helloworld" target="1.8" />
+      <module name="Springboot" target="1.8" />
+      <module name="Springboot-Security" target="1.8" />
+      <module name="springboot-security" target="1.8" />
+      <module name="sprngboot-01-helloworld" target="1.8" />
       <module name="study" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Springboot" options="-parameters" />
+      <module name="Springboot-Security" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="spring-ioc2" options="-parameters" />
       <module name="spring01-ioc-hellospring" options="-parameters" />
+      <module name="springbooot-01-helloworld" options="-parameters" />
+      <module name="springboot-security" options="-parameters" />
+      <module name="sprngboot-01-helloworld" options="-parameters" />
       <module name="study" options="-parameters" />
     </option>
   </component>

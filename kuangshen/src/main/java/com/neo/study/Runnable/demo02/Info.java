@@ -7,8 +7,8 @@ import javax.swing.text.AbstractDocument;
  * Date 2021/3/20 10:17
  */
 public class Info {     //定义信息类
-    private String name="李兴华";      //信息名称，指定默认值
-    private String content="JAVA讲师";    //信息内容，指定默认值
+    private String name = "李兴华";      //信息名称，指定默认值
+    private String content = "JAVA讲师";    //信息内容，指定默认值
 
     public String getName() {
         return name;

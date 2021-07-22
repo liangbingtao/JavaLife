@@ -41,28 +41,26 @@ public class PrintList {
 
  */
 
-        LinkedList<Integer> stack=new LinkedList<Integer>();
-        while (head!=null){
+        LinkedList<Integer> stack = new LinkedList<Integer>();
+        while (head != null) {
             stack.push(head.val);
-            head=head.next;
+            head = head.next;
         }
-        while (stack.size()!=0){
+        while (stack.size() != 0) {
 
-            res.val=stack.pop();
+            res.val = stack.pop();
             resList.add(res);
             System.out.println(res.val);
-            res=res.next;
+            res = res.next;
         }
-        for (int i=0;i<resList.size();i++){
-            if (i==resList.size()-1){
-                System.out.println(resList.get(i).val+"=>NULL");
-            }else{
-                System.out.print(resList.get(i).val+"=>");
+        for (int i = 0; i < resList.size(); i++) {
+            if (i == resList.size() - 1) {
+                System.out.println(resList.get(i).val + "=>NULL");
+            } else {
+                System.out.print(resList.get(i).val + "=>");
             }
         }
     }
-
-
 
 
 }

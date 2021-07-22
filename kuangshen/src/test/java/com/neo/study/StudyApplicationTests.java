@@ -1,5 +1,6 @@
 package com.neo.study;
 
+import jdk.nashorn.internal.parser.Scanner;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -40,12 +41,13 @@ class StudyApplicationTests {
         double j = 3.333;
         BigDecimal bigDecimal1 = new BigDecimal(i);
         BigDecimal bigDecimal2 = new BigDecimal(j);
-        BigDecimal divide = bigDecimal1.divide(bigDecimal2,4,BigDecimal.ROUND_HALF_UP);
+        BigDecimal divide = bigDecimal1.divide(bigDecimal2, 4, BigDecimal.ROUND_HALF_UP);
         System.out.println(divide);
         // String s="helloworld";
         // String substring = s.substring(1);
         // System.out.println(substring);
 
     }
+
 
 }

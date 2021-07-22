@@ -8,7 +8,7 @@ package com.neo.structure.decorator;
 public class FiredRice extends FastFood {
 
     public FiredRice() {
-    super(10,"炒饭");
+        super(10, "炒饭");
     }
 
 

@@ -9,11 +9,11 @@ public class CoffeeStroe {
 
     private CoffeeFactory factory;
 
-    public void setFactory(CoffeeFactory factory){
-        this.factory=factory;
+    public void setFactory(CoffeeFactory factory) {
+        this.factory = factory;
     }
 
-    public Coffee orderCoffee(){
+    public Coffee orderCoffee() {
         Coffee coffee = factory.createCoffee();
         coffee.addMilk();
         coffee.addSugar();

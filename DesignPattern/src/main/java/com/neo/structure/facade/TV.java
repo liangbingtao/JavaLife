@@ -7,12 +7,12 @@ package com.neo.structure.facade;
  */
 public class TV {
     //开电视
-    public void on(){
+    public void on() {
         System.out.println("打开电视...");
     }
 
     //关电视
-    public void off(){
+    public void off() {
         System.out.println("关闭电视...");
     }
 }

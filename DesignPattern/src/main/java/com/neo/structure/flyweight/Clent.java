@@ -25,6 +25,6 @@ public class Clent {
         AbstractBox oobox = BoxFactory.getInstance().getBox("O");
         oobox.display("红色");
 
-        System.out.println("两次获取到的O图形对象是否是同一对象："+(obox==oobox));
+        System.out.println("两次获取到的O图形对象是否是同一对象：" + (obox == oobox));
     }
 }

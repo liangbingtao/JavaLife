@@ -8,6 +8,6 @@
         <package name="com.neo.pojo"/>
     </typeAliases>
 
-<!--设置-->
+    <!--设置-->
 
 </configuration>

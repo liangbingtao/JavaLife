@@ -14,7 +14,7 @@ public class MyTest {
         num[2] = 3;
 
         int[] score = num;
-        for (int i=0;i<score.length;i++){
+        for (int i = 0; i < score.length; i++) {
             System.out.println(score[i]);
         }
     }

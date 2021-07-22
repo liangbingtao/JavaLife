@@ -7,11 +7,11 @@ package com.neo.structure.adapter.objectAdapter;
  */
 public class SDCardImpl implements SDCard {
     public String readSDCard() {
-        String msg="sd card read a msg : hello world sdCard";
+        String msg = "sd card read a msg : hello world sdCard";
         return msg;
     }
 
     public void writeSDCard(String msg) {
-        System.out.println("SDCard write a msg : "+ msg);
+        System.out.println("SDCard write a msg : " + msg);
     }
 }

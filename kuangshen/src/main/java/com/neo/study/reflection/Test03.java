@@ -9,7 +9,7 @@ public class Test03 {
 
     public static void main(String[] args) throws ClassNotFoundException {
         Person person = new Student();
-        System.out.println("这个人是：" +person.name);
+        System.out.println("这个人是：" + person.name);
 
         //方式一：通过对象获得
         Class c1 = person.getClass();

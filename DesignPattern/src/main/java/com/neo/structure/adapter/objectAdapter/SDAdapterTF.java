@@ -5,7 +5,7 @@ package com.neo.structure.adapter.objectAdapter;
  * @Date 2021/3/24 14:06
  * @Description : TODO
  */
-public class SDAdapterTF  implements SDCard {
+public class SDAdapterTF implements SDCard {
 
     //声明适配者类
     private TFCard tfCard;

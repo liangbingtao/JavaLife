@@ -19,18 +19,18 @@ public class SmartAppliancesFacade {
     }
 
     //通过语音控制
-    public void say(String msg){
-        if (msg.contains("打开")){
+    public void say(String msg) {
+        if (msg.contains("打开")) {
             on();
-        }else if(msg.contains("关闭")){
+        } else if (msg.contains("关闭")) {
             off();
-        }else{
+        } else {
             System.out.println("我还听不懂你说的！！！");
         }
     }
 
     //起床后一键打开电器
-    private void on(){
+    private void on() {
         System.out.println("起床了~");
         light.on();
         tv.on();
@@ -38,7 +38,7 @@ public class SmartAppliancesFacade {
     }
 
     //睡觉一键关闭电器
-    private void off(){
+    private void off() {
         System.out.println("睡觉了~");
         light.off();
         tv.on();

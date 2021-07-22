@@ -6,7 +6,7 @@ package com.neo.demo02;
  */
 
 //真实对象
-public class UserServiceImpl implements UserService{
+public class UserServiceImpl implements UserService {
     public void add() {
         System.out.println("增加了一个用户");
     }

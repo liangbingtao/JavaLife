@@ -5,7 +5,7 @@ package com.neo.pojo;
  * Date 2021/1/25 9:15
  */
 public class Dog {
-    public void shout(){
+    public void shout() {
         System.out.println("wang~");
     }
 }

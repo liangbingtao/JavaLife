@@ -20,7 +20,7 @@ public class Client {
         //1、获取迭代器对象
         StudentIterator iterator = studentAggregate.getStudentIterator();
         //2、遍历
-        while(iterator.hasNext()){
+        while (iterator.hasNext()) {
             Student student = iterator.next();
             System.out.println(student.toString());
         }

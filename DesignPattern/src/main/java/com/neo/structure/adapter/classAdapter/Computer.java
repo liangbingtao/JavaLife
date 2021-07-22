@@ -8,7 +8,7 @@ package com.neo.structure.adapter.classAdapter;
 public class Computer {
 
     public String readSD(SDCard sdCard) {
-        if (sdCard == null){
+        if (sdCard == null) {
             throw new NullPointerException("sd card is null");
         }
         return sdCard.readSDCard();

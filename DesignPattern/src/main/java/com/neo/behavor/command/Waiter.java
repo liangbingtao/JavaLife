@@ -22,10 +22,10 @@ public class Waiter {
     }
 
     //发出命令，喊 订单来了，厨师开始执行
-    public void orderUp(){
+    public void orderUp() {
         System.out.println("服务员：叮咚，大厨，订单来了...");
         for (Command command : commands) {
-            if (command!=null){
+            if (command != null) {
                 command.execute();
             }
         }

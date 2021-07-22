@@ -15,6 +15,6 @@ public class Log implements MethodBeforeAdvice {
     //target:目标对象
 
     public void before(Method method, Object[] objects, Object target) throws Throwable {
-        System.out.println(target.getClass().getName()+"的"+method.getName()+"被执行了");
+        System.out.println(target.getClass().getName() + "的" + method.getName() + "被执行了");
     }
 }

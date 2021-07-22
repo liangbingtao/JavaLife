@@ -12,7 +12,7 @@ public class MyTest {
 
     public static void main(String[] args) {
 
-       ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
         Student student = (Student) context.getBean("student");
         System.out.println(student.toString());
 
@@ -32,7 +32,7 @@ public class MyTest {
 
 
     @Test
-    public void test2(){
+    public void test2() {
         ApplicationContext context = new ClassPathXmlApplicationContext("userbeans.xml");
         User user = context.getBean("user2", User.class);
         System.out.println(user);

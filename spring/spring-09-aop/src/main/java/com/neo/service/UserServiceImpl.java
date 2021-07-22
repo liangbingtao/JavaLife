@@ -4,7 +4,7 @@ package com.neo.service;
  * @Description Author neo
  * Date 2021/3/5 11:16
  */
-public class UserServiceImpl implements UserService{
+public class UserServiceImpl implements UserService {
 
     public void add() {
         System.out.println("增加了一个用户");

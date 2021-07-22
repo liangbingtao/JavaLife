@@ -33,7 +33,7 @@ public class UserServiceProxy implements UserService {
     }
 
     //日志方法
-    public void log(String msg){
-        System.out.println("[Debug] 使用了"+msg+"方法");
+    public void log(String msg) {
+        System.out.println("[Debug] 使用了" + msg + "方法");
     }
 }

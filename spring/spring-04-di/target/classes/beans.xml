@@ -5,6 +5,7 @@
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
+    <!--定义一个类-->
     <bean id="address" class="com.neo.pojo.Address">
         <property name="address" value="西安"/>
     </bean>

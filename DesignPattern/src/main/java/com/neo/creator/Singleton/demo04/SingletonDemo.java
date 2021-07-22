@@ -9,6 +9,6 @@ public class SingletonDemo {
         Singleton instance = Singleton.getInstance();
         Singleton instance1 = Singleton.getInstance();
 
-        System.out.println(instance==instance1);
+        System.out.println(instance == instance1);
     }
 }

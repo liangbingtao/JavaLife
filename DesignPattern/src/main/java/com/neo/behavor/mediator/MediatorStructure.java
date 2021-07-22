@@ -29,9 +29,9 @@ public class MediatorStructure extends Mediator {
 
 
     public void communicate(String message, Person person) {
-        if (person == houseOwner){      //如果是房主与中介联系，则中介将消息传达给租户
+        if (person == houseOwner) {      //如果是房主与中介联系，则中介将消息传达给租户
             tenant.getMessage(message);
-        }else {     //如果是租户和中介联系，则中介将消息传达给房主
+        } else {     //如果是租户和中介联系，则中介将消息传达给房主
             houseOwner.getMessage(message);
         }
     }

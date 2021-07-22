@@ -6,7 +6,7 @@ package com.neo.creator.Factory.AbstractFactory;
  */
 public class Client {
     public static void main(String[] args) {
-        AmericanDessertFactory americanDessertFactory=new AmericanDessertFactory();
+        AmericanDessertFactory americanDessertFactory = new AmericanDessertFactory();
         Coffee coffee = americanDessertFactory.createCoffee();
         Dessert dessert = americanDessertFactory.createDessert();
         System.out.println(coffee.getName());

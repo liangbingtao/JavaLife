@@ -28,9 +28,9 @@ public class Test05 {
 
 class A {
 
-    static{
+    static {
         System.out.println("A类静态代码块初始化");
-        m=300;
+        m = 300;
     }
 
 

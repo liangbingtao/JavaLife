@@ -12,7 +12,7 @@ import java.io.IOException;
 public class Test01 {
     public static void main(String[] args) {
 //        String path="d:"+File.separator+"test.txt";//文件路径
-        String path="d:"+File.separator+"export"+File.separator+"test";//创建文件夹路径，test为要创建的文件夹
+        String path = "d:" + File.separator + "export" + File.separator + "test";//创建文件夹路径，test为要创建的文件夹
         System.out.println(path);
         File file = new File(path);
 //        try {

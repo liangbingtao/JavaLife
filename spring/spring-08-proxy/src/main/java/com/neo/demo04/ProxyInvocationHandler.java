@@ -43,7 +43,7 @@ public class ProxyInvocationHandler implements InvocationHandler {
     }
 
 
-    public void log(String msg){
-        System.out.println("执行了"+msg+"方法");
+    public void log(String msg) {
+        System.out.println("执行了" + msg + "方法");
     }
 }

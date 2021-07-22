@@ -5,7 +5,7 @@ package com.neo.creator.prototype.demo05;
  * @Date 2021/3/29 15:22
  * @Description : TODO
  */
-public class Teacher implements Cloneable{
+public class Teacher implements Cloneable {
     private String name;
     private Student student;
 

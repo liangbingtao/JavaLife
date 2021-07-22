@@ -4,7 +4,7 @@ package com.neo.creator.Factory.SimpleFactory;
  * @Description Author neo
  * Date 2021/3/19 17:22
  */
-public class AmericanCoffee  extends Coffee{
+public class AmericanCoffee extends Coffee {
 
 
     public String getName() {

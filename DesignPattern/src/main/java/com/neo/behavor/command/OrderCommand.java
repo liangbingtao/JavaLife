@@ -24,10 +24,10 @@ public class OrderCommand implements Command {
         System.out.println(order.getDiningTable() + "号桌的订单：");
         Map<String, Integer> foodDic = order.getFoodDic();
         for (String key : foodDic.keySet()) {
-            receiver.makeFood(foodDic.get(key),key);
+            receiver.makeFood(foodDic.get(key), key);
         }
 
-        System.out.println(order.getDiningTable()+"号桌的饭做好了");
+        System.out.println(order.getDiningTable() + "号桌的饭做好了");
         System.out.println("==========================");
     }
 }

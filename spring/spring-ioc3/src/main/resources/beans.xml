@@ -11,11 +11,11 @@
 
     <!--  使用有参构造  -->
 
-<!--
-  id: bean的唯一标识符，也就是相当于我们的对象名
-  class:bean的全限定名：包名+类名
-  name:也是别名，而且可以同时取多个别名
-  -->
+    <!--
+      id: bean的唯一标识符，也就是相当于我们的对象名
+      class:bean的全限定名：包名+类名
+      name:也是别名，而且可以同时取多个别名
+      -->
     <bean id="user" class="com.neo.pojo.User">
         <!--  第1种、下标赋值  -->
         <!--        <constructor-arg index="0" value="梁兵涛-1"/>-->

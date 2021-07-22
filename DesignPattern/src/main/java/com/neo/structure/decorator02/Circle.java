@@ -5,7 +5,7 @@ package com.neo.structure.decorator02;
  * @Date 2021/3/25 9:32
  * @Description : TODO
  */
-public class Circle implements Shape{
+public class Circle implements Shape {
     public void draw() {
         System.out.println("画了一个圆形");
     }

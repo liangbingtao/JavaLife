@@ -23,26 +23,27 @@ public class Test06 {
         //不会产生类的引用的方法--子类 访问父类的静态变量不会导致子类被初始化
         System.out.println(Son.b);
 
-        Son[] array=new Son[5];
+        Son[] array = new Son[5];
 
         //引用常量不会导致对应的类被初始化，连接阶段就放入常量池中了
         System.out.println(Son.M);
     }
 }
 
-class Father{
-    static int b=2;
+class Father {
+    static int b = 2;
+
     static {
         System.out.println("父类被加载");
     }
 }
 
-class Son extends Father{
+class Son extends Father {
     static {
         System.out.println("子类被加载");
-        m=300;
+        m = 300;
     }
 
-    static int m=100;
-    static final int M=1;
+    static int m = 100;
+    static final int M = 1;
 }

@@ -6,7 +6,7 @@ package com.neo.creator.Factory.SimpleFactory;
  */
 public class Client {
     public static void main(String[] args) {
-        CoffeeStroe stroe=new CoffeeStroe();
+        CoffeeStroe stroe = new CoffeeStroe();
         Coffee coffee = stroe.orderCoffee("american");
         System.out.println(coffee.getName());
     }

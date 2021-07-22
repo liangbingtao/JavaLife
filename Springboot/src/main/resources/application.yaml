@@ -1,0 +1,24 @@
+server:
+  port: 8080
+
+
+---
+server:
+  port: 8082
+spring:
+  profiles: test
+
+
+---
+server:
+  port: 8083
+
+#关闭模板引擎的缓存
+spring:
+  profiles: pro
+  thymeleaf:
+    cache: false
+  messages:
+    basename: i18n.login
+
+

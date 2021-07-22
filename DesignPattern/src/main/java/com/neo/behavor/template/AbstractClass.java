@@ -8,7 +8,7 @@ package com.neo.behavor.template;
 public abstract class AbstractClass {
 
     //模板方法，定义了算法的骨架和执行基本方法的顺序，不允许子类改写，故加上final关键字
-    public final void cookProcess(){
+    public final void cookProcess() {
         //倒油
         this.pourOil();
         //热油
@@ -27,12 +27,12 @@ public abstract class AbstractClass {
     // 倒蔬菜和倒调味料是跟做的菜有关，是不一样的，定义成抽象方法，在子类中实现
 
     //第一步：倒油是一样的，直接实现
-    public void pourOil(){
+    public void pourOil() {
         System.out.println("倒油");
     }
 
     //第二步：热油是一样的，直接实现
-    public void heatOil(){
+    public void heatOil() {
         System.out.println("热油");
     }
 
@@ -43,7 +43,7 @@ public abstract class AbstractClass {
     public abstract void pourSauce();
 
     //第五步：翻炒是一样的，所以直接实现
-    public void fry(){
+    public void fry() {
         System.out.println("翻炒到熟出锅");
     }
 }

@@ -21,7 +21,7 @@ public class Consumer implements Runnable {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println(this.info.getName()+"-->"+this.info.getContent());
+            System.out.println(this.info.getName() + "-->" + this.info.getContent());
 
 
         }

@@ -23,7 +23,7 @@ public class Citation implements Cloneable, Serializable {
         return (Citation) super.clone();
     }
 
-    public  void show() {
+    public void show() {
         System.out.println(student.getName() + "同学：在2020学年第一学期中表现优秀，被评为三好学生。特发此状！");
     }
 }

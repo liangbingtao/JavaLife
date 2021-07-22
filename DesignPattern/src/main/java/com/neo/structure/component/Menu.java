@@ -8,14 +8,14 @@ import java.util.List;
  * @Date 2021/3/25 19:46
  * @Description : 菜单类（树枝节点）
  */
-public class Menu extends MenuComponent{
+public class Menu extends MenuComponent {
 
     //因为菜单可以有多个子菜单或子菜单项
     private List<MenuComponent> menuComponentList;
 
-    public Menu(String name,int level) {
-        this.name=name;
-        this.level=level;
+    public Menu(String name, int level) {
+        this.name = name;
+        this.level = level;
         this.menuComponentList = new ArrayList<MenuComponent>();
     }
 
@@ -31,11 +31,11 @@ public class Menu extends MenuComponent{
 
     @Override
     public MenuComponent getChild(int i) {
-       return menuComponentList.get(i);
+        return menuComponentList.get(i);
     }
 
     public void print() {
-        for (int i=1;i<level;i++){
+        for (int i = 1; i < level; i++) {
             System.out.print("--");
         }
         System.out.println(name);

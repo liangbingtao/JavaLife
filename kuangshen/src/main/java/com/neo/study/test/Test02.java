@@ -20,10 +20,10 @@ public class Test02 {
 
 }
 
-class Father{
-    private String name="zhangsan";
+class Father {
+    private String name = "zhangsan";
 
-    public void call(){
+    public void call() {
         System.out.println("父类的call方法");
     }
 
@@ -36,9 +36,9 @@ class Father{
     }
 }
 
-class Son extends Father{
+class Son extends Father {
 
-    public void call(){
+    public void call() {
         System.out.println("子类的call方法");
         System.out.println(new Father().getName());
     }

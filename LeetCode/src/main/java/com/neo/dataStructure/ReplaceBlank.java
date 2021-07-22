@@ -30,8 +30,8 @@ public class ReplaceBlank {
 //###############解法二######################
         if (s == null || "".equals(s)) {
             System.out.println("输入为空~");
-        }else{
-            System.out.println(s.replaceAll(" ","%20"));
+        } else {
+            System.out.println(s.replaceAll(" ", "%20"));
         }
 
     }

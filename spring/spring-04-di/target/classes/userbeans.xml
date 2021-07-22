@@ -10,7 +10,7 @@
     <bean id="user" class="com.neo.pojo.User" p:name="梁兵涛" p:age="18"/>
 
     <!--c命名空间注入，通过构造器注入：constructor，要使用有参构造，必须加上无参构造-->
-    <bean id="user2" class="com.neo.pojo.User" c:name="梁兵涛" c:age="24"/>
+    <bean id="user2" class="com.neo.pojo.User" c:name="梁兵涛" c:age="24" scope="prototype"/>
 
 
 </beans>

@@ -32,8 +32,4 @@
         <constructor-arg index="0" ref="sqlSessionFactory"/>
     </bean>
 
-    <bean id="userMapper" class="com.neo.mapper.UserMapperImpl">
-        <property name="sqlSession" ref="sqlSession"/>
-    </bean>
-
 </beans>

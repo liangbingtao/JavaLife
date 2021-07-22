@@ -43,7 +43,7 @@ public class MaxQueue {
     }
 
     public static void main(String[] args) {
-        MaxQueue maxQueue=new MaxQueue();
+        MaxQueue maxQueue = new MaxQueue();
         maxQueue.push_back(1);
         maxQueue.push_back(-2);
         maxQueue.push_back(3);

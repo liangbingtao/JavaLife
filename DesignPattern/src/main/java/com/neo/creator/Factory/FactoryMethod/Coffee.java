@@ -5,15 +5,15 @@ package com.neo.creator.Factory.FactoryMethod;
  * Date 2021/3/19 17:20
  */
 public abstract class Coffee {
-    public abstract String  getName();
+    public abstract String getName();
 
     //加糖
-    public void addSugar(){
+    public void addSugar() {
         System.out.println("加糖");
     }
 
     //加奶
-    public void addMilk(){
+    public void addMilk() {
         System.out.println("加奶");
     }
 

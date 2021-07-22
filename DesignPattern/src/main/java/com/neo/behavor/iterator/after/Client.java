@@ -26,7 +26,7 @@ public class Client {
         }
 
         while (iterator2.hasNext()) {
-           Worker worker = (Worker) iterator2.next();
+            Worker worker = (Worker) iterator2.next();
             System.out.println(worker.toString());
         }
 

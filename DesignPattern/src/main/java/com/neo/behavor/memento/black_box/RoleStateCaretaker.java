@@ -8,7 +8,7 @@ import com.neo.behavor.memento.white_box.RoleStateMemento;
  * @Date 2021/3/29 10:29
  * @Description : 角色状态管理者
  */
-public class RoleStateCaretaker{
+public class RoleStateCaretaker {
 
     //创建备忘录变量
     private Memento memento;

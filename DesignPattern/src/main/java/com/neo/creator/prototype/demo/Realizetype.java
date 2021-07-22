@@ -5,7 +5,7 @@ package com.neo.creator.prototype.demo;
  * @Date 2021/3/29 15:13
  * @Description : TODO
  */
-public class Realizetype implements Cloneable{
+public class Realizetype implements Cloneable {
 
     //构造方法
     public Realizetype() {

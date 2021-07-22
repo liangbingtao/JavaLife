@@ -10,13 +10,13 @@ public class Client {
         //创建两个order
         Order order1 = new Order();
         order1.setDiningTable(1);
-        order1.setFoodDic("西红柿鸡蛋面",1);
-        order1.setFoodDic("可口可乐",2);
+        order1.setFoodDic("西红柿鸡蛋面", 1);
+        order1.setFoodDic("可口可乐", 2);
 
         Order order2 = new Order();
         order2.setDiningTable(2);
-        order2.setFoodDic("青椒肉丝",1);
-        order2.setFoodDic("雪碧",1);
+        order2.setFoodDic("青椒肉丝", 1);
+        order2.setFoodDic("雪碧", 1);
 
         //创建接收者
         SeniorChef chef = new SeniorChef();

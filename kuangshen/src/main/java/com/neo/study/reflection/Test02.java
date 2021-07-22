@@ -27,13 +27,13 @@ public class Test02 {
 
 
 //实体类：com.neo.pojo,entity
-class User{
+class User {
     private int id;
     private String name;
     private int age;
 
     //无参构造
-    public User(){
+    public User() {
 
     }
 

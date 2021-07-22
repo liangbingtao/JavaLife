@@ -6,7 +6,7 @@ package com.neo.demo01;
  */
 
 //真实角色--房东
-public class Host implements Rent{
+public class Host implements Rent {
 
 
     public void rent() {

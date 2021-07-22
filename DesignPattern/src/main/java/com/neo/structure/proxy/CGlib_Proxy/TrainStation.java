@@ -6,7 +6,7 @@ package com.neo.structure.proxy.CGlib_Proxy;
  * @Description : TODO
  */
 public class TrainStation {
-    public void sell(){
+    public void sell() {
         System.out.println("火车站卖票");
     }
 }

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11a4fb7b-1ee0-4c85-8b1f-7596ddacde17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qQdPh0sdiNgMz2Hq6Uk4YZDLo0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test01" />
+      <module name="alibaba" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11a4fb7b-1ee0-4c85-8b1f-7596ddacde17" name="Default Changelist" comment="" />
+      <created>1617015729383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617015729383</updated>
+      <workItem from="1617015731044" duration="3520000" />
+      <workItem from="1617068838477" duration="1104000" />
+      <workItem from="1617591488322" duration="149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1617019253962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617019253962" />
+    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1617019253962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617019253962" />
+    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1617019253962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617019253962" />
+    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1617019253962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617019253962" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1617019253962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617019253962" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1617019253962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617019253962" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1617019253962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617019253962" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1617019253962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1617019253962" />
+    <state x="1740" y="129" key="SettingsEditor" timestamp="1617069372634">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1740" y="129" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1617069372634" />
+  </component>
+</project>

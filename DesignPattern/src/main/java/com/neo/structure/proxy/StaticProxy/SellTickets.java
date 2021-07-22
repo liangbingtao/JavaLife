@@ -8,5 +8,5 @@ package com.neo.structure.proxy.StaticProxy;
 
 public interface SellTickets {
 
-     void sell();
+    void sell();
 }

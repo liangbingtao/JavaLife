@@ -41,11 +41,11 @@ public abstract class Handler {
         }
 
         // 如果请假天数达到该领导者的处理要求
-        if(leave.getNum() >= this.numStart){
+        if (leave.getNum() >= this.numStart) {
             this.handleLeave(leave);
 
             //如果还有上级 并且请假天数超过了当前领导的处理范围
-            if(null != this.nextHandler && leave.getNum() > numEnd){
+            if (null != this.nextHandler && leave.getNum() > numEnd) {
                 this.nextHandler.submit(leave);//继续提交
             } else {
                 System.out.println("流程结束");

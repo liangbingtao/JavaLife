@@ -21,7 +21,7 @@ public class Home {
     }
 
     //遍历集合获取每一个元素，让访问者访问每一个元素
-    public void action(Person person){
+    public void action(Person person) {
         for (Animal animal : nodeList) {
             animal.accept(person);
         }
