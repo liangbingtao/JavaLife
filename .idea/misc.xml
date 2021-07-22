@@ -20,6 +20,8 @@
         <option value="$PROJECT_DIR$/Springboot/pom.xml" />
         <option value="$PROJECT_DIR$/DesignPattern/springboot-security/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot-Security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-shiro/shiro-springboot/pom.xml" />
       </list>
     </option>
   </component>

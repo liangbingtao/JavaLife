@@ -13,6 +13,7 @@
         <module name="springbooot-01-helloworld" />
         <module name="spring-08-proxy" />
         <module name="Springboot-Security" />
+        <module name="hello-shiro" />
         <module name="spring-10-mybatis" />
         <module name="spring01-ioc-hellospring" />
         <module name="spring-ioc3" />
@@ -20,6 +21,7 @@
         <module name="spring-07-appconfig" />
         <module name="Springboot" />
         <module name="springboot-security" />
+        <module name="shiro-springboot" />
         <module name="spring-05-Autowired" />
         <module name="LeetCode" />
       </profile>
@@ -27,7 +29,9 @@
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
       <module name="DesignPattern" target="1.5" />
+      <module name="hello-shiro" target="1.8" />
       <module name="LeetCode" target="7" />
+      <module name="shiro-springboot" target="1.8" />
       <module name="spring" target="1.5" />
       <module name="spring-02-hellospring" target="1.5" />
       <module name="spring-04-di" target="1.5" />
@@ -43,8 +47,9 @@
       <module name="spring03-ioc2" target="1.5" />
       <module name="springbooot-01-helloworld" target="1.8" />
       <module name="Springboot" target="1.8" />
-      <module name="Springboot-Security" target="1.8" />
       <module name="springboot-security" target="1.8" />
+      <module name="Springboot-Security" target="1.8" />
+      <module name="springboot-shiro" target="1.8" />
       <module name="sprngboot-01-helloworld" target="1.8" />
       <module name="study" target="1.8" />
     </bytecodeTargetLevel>
