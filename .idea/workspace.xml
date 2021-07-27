@@ -23,34 +23,162 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0447f448-8bfa-46a2-a7e0-d78452b14c40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/hello-shiro/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/hello-shiro/src/main/java/Quickstart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/hello-shiro/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/hello-shiro/src/main/resources/shiro.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/java/com/neo/ShiroSpringbootApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/java/com/neo/config/ShiroConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/java/com/neo/config/UserRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/java/com/neo/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/java/com/neo/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/java/com/neo/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/java/com/neo/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/java/com/neo/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/resources/templates/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/resources/templates/user/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/resources/templates/user/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/test/java/com/neo/ShiroSpringbootApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/src/main/java/com/neo/AsyncApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/src/main/java/com/neo/controller/AsyncController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/src/main/java/com/neo/service/AsyncService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/src/main/java/com/neo/service/ScheduledService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/src/main/resources/static/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async/src/test/java/com/neo/AsyncApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuangshen/src/main/java/com/neo/study/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/SpringbootLayuiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/vo/DataVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/vo/utils/IErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/vo/utils/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/mapper/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/static/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/main/resources/templates/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-layui/src/test/java/com/neo/SpringbootLayuiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/src/main/java/com/neo/SpringbootSwaggerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/src/main/java/com/neo/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/src/main/java/com/neo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/src/main/java/com/neo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/src/main/resources/application-pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-swagger/src/test/java/com/neo/SpringbootSwaggerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/test-classes/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/test-classes/MyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/target/classes/com/neo/controller/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/target/classes/com/neo/controller/MyController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +191,10 @@
         <option value="JavaScript File" />
         <option value="FxmlFile" />
         <option value="spring-beans.schema" />
-        <option value="Interface" />
         <option value="Class" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -103,23 +232,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Springboot-Security/src/main/resources/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-layui/src/main/resources/static" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\code\JavaLife\springboot-shiro\shiro-springboot\src\main\resources\templates" />
-      <recent name="E:\code\JavaLife\Springboot\src\main\resources\templates\error" />
-      <recent name="E:\code\JavaLife\Springboot\src\main\resources\templates\emp" />
-      <recent name="E:\code\JavaLife\Springboot\src\main\resources\templates" />
-      <recent name="E:\code\JavaLife\Springboot\src\main\resources\static" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.neo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\JavaLife\springboot-layui\src\main\resources\static" />
+      <recent name="E:\code\JavaLife\async\src\main\resources\static\img" />
+      <recent name="E:\code\JavaLife\springboot-swagger\src\main\resources" />
+      <recent name="E:\code\JavaLife\Springboot-Security\src\main\resources\templates" />
+      <recent name="E:\code\JavaLife\Springboot-Security\src\main\resources\static" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.neo.behavor.interpreter" />
@@ -128,12 +257,12 @@
       <recent name="com.neo.behavor.responsibility" />
       <recent name="com.neo.behavor.strategy" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\code\JavaLife\Springboot-Security\src\main\resources\templates" />
-      <recent name="E:\code\JavaLife\Springboot-Security\src\main\resources\static" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\JavaLife\springboot-shiro\shiro-springboot\src\main\resources\templates" />
+      <recent name="E:\code\JavaLife\Springboot\src\main\resources\templates\error" />
       <recent name="E:\code\JavaLife\Springboot\src\main\resources\templates\emp" />
-      <recent name="E:\code\JavaLife\Springboot\src\main\resources\static" />
       <recent name="E:\code\JavaLife\Springboot\src\main\resources\templates" />
+      <recent name="E:\code\JavaLife\Springboot\src\main\resources\static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -143,7 +272,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ShiroSpringbootApplication">
+  <component name="RunManager" selected="Spring Boot.SpringbootLayuiApplication">
     <configuration name="Quickstart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Quickstart" />
       <module name="hello-shiro" />
@@ -151,21 +280,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInetAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neo.study.lesson01.TestInetAddress" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.neo.study.lesson01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="meituan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neo.study.meituan" />
+    <configuration name="test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neo.study.test01" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -177,13 +293,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsyncApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="async" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neo" />
+      <option name="MAIN_CLASS_NAME" value="com.neo.AsyncApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsyncApplicationTests.contextLoads2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="async" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neo" />
+      <option name="MAIN_CLASS_NAME" value="com.neo.AsyncApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -204,6 +354,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AsyncApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="async" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.AsyncApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShiroSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="shiro-springboot" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.ShiroSpringbootApplication" />
@@ -218,15 +375,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootSecurityApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Springboot-Security" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.neo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.SpringbootSecurityApplication" />
+    <configuration name="SpringbootLayuiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-layui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.SpringbootLayuiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -234,6 +385,13 @@
     <configuration name="SpringbootSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-security" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.SpringbootSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootSwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.SpringbootSwaggerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -253,24 +411,27 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestInetAddress" />
-      <item itemvalue="Application.meituan" />
+      <item itemvalue="Application.Quickstart" />
+      <item itemvalue="Application.test01" />
+      <item itemvalue="JUnit.ShiroSpringbootApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.AsyncApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.AsyncApplicationTests.contextLoads2" />
       <item itemvalue="Spring Boot.SpringbootApplication" />
       <item itemvalue="Spring Boot.SpringbootSecurityApplication" />
       <item itemvalue="Spring Boot.Sprngboot01HelloworldApplication" />
       <item itemvalue="Spring Boot.StudyApplication" />
-      <item itemvalue="Spring Boot.SpringbootSecurityApplication (1)" />
-      <item itemvalue="Application.Quickstart" />
       <item itemvalue="Spring Boot.ShiroSpringbootApplication" />
-      <item itemvalue="JUnit.ShiroSpringbootApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.SpringbootSwaggerApplication" />
+      <item itemvalue="Spring Boot.AsyncApplication" />
+      <item itemvalue="Spring Boot.SpringbootLayuiApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test01" />
+        <item itemvalue="JUnit.AsyncApplicationTests.contextLoads2" />
+        <item itemvalue="JUnit.AsyncApplicationTests.contextLoads" />
         <item itemvalue="JUnit.ShiroSpringbootApplicationTests.contextLoads" />
         <item itemvalue="Application.Quickstart" />
-        <item itemvalue="Spring Boot.SpringbootSecurityApplication (1)" />
-        <item itemvalue="Application.meituan" />
-        <item itemvalue="Application.TestInetAddress" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +501,11 @@
       <workItem from="1626777189240" duration="21580000" />
       <workItem from="1626871053322" duration="11339000" />
       <workItem from="1626924316448" duration="1749000" />
-      <workItem from="1626926203231" duration="19502000" />
+      <workItem from="1626926203231" duration="46777000" />
+      <workItem from="1627269380108" duration="2460000" />
+      <workItem from="1627297230986" duration="25000" />
+      <workItem from="1627345780913" duration="7605000" />
+      <workItem from="1627360271600" duration="9855000" />
     </task>
     <servers />
   </component>
@@ -379,91 +544,99 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="557" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626925367699" />
-    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1626952006870">
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1627372532932">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626952006870" />
-    <state x="485" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1626859654880">
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627372532932" />
+    <state x="485" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1627354684324">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="485" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626859654880" />
+    <state x="485" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627354684323" />
+    <state x="525" y="310" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1627354623063">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="525" y="310" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627354623063" />
     <state x="1060" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626770313846">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1060" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626770313846" />
-    <state x="561" y="84" key="FileChooserDialogImpl" timestamp="1626871200627">
+    <state width="437" height="438" key="DebuggerActiveHint" timestamp="1627372306468">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="437" height="438" key="DebuggerActiveHint/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627372306468" />
+    <state x="561" y="84" key="FileChooserDialogImpl" timestamp="1627346072825">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="2039" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1621133196107" />
-    <state x="561" y="84" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626871200627" />
-    <state width="1283" height="280" key="GridCell.Tab.0.bottom" timestamp="1626950776473">
+    <state x="561" y="84" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627346072825" />
+    <state width="1283" height="263" key="GridCell.Tab.0.bottom" timestamp="1627378308159">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1322" height="262" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1620531046434" />
     <state width="1876" height="357" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1621582460622" />
-    <state width="1283" height="280" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626950776473" />
-    <state width="1283" height="280" key="GridCell.Tab.0.center" timestamp="1626950776473">
+    <state width="1283" height="263" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627378308159" />
+    <state width="1283" height="263" key="GridCell.Tab.0.center" timestamp="1627378308159">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1322" height="262" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1620531046434" />
     <state width="1876" height="357" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1621582460622" />
-    <state width="1283" height="280" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626950776473" />
-    <state width="1283" height="280" key="GridCell.Tab.0.left" timestamp="1626950776473">
+    <state width="1283" height="263" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627378308159" />
+    <state width="1283" height="263" key="GridCell.Tab.0.left" timestamp="1627378308158">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1322" height="262" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1620531046434" />
     <state width="1876" height="357" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1621582460622" />
-    <state width="1283" height="280" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626950776473" />
-    <state width="1283" height="280" key="GridCell.Tab.0.right" timestamp="1626950776473">
+    <state width="1283" height="263" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627378308158" />
+    <state width="1283" height="263" key="GridCell.Tab.0.right" timestamp="1627378308159">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1322" height="262" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1620531046434" />
     <state width="1876" height="357" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1621582460622" />
-    <state width="1283" height="280" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626950776473" />
-    <state width="1283" height="280" key="GridCell.Tab.1.bottom" timestamp="1626950776473">
+    <state width="1283" height="263" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627378308159" />
+    <state width="1283" height="263" key="GridCell.Tab.1.bottom" timestamp="1627378308159">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1322" height="262" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1620531046434" />
-    <state width="1283" height="280" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626950776473" />
-    <state width="1283" height="280" key="GridCell.Tab.1.center" timestamp="1626950776473">
+    <state width="1283" height="263" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627378308159" />
+    <state width="1283" height="263" key="GridCell.Tab.1.center" timestamp="1627378308159">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1322" height="262" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1620531046434" />
-    <state width="1283" height="280" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626950776473" />
-    <state width="1283" height="280" key="GridCell.Tab.1.left" timestamp="1626950776473">
+    <state width="1283" height="263" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627378308159" />
+    <state width="1283" height="263" key="GridCell.Tab.1.left" timestamp="1627378308159">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1322" height="262" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1620531046434" />
-    <state width="1283" height="280" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626950776473" />
-    <state width="1283" height="280" key="GridCell.Tab.1.right" timestamp="1626950776473">
+    <state width="1283" height="263" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627378308159" />
+    <state width="1283" height="263" key="GridCell.Tab.1.right" timestamp="1627378308159">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1322" height="262" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1620531046434" />
-    <state width="1283" height="280" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626950776473" />
-    <state width="1283" height="280" key="GridCell.Tab.2.bottom" timestamp="1626949535715">
+    <state width="1283" height="263" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627378308159" />
+    <state width="1283" height="263" key="GridCell.Tab.2.bottom" timestamp="1627372718476">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1283" height="280" key="GridCell.Tab.2.bottom/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626949535715" />
-    <state width="1283" height="280" key="GridCell.Tab.2.center" timestamp="1626949535715">
+    <state width="1283" height="263" key="GridCell.Tab.2.bottom/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627372718476" />
+    <state width="1283" height="263" key="GridCell.Tab.2.center" timestamp="1627372718476">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1283" height="280" key="GridCell.Tab.2.center/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626949535715" />
-    <state width="1283" height="280" key="GridCell.Tab.2.left" timestamp="1626949535715">
+    <state width="1283" height="263" key="GridCell.Tab.2.center/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627372718476" />
+    <state width="1283" height="263" key="GridCell.Tab.2.left" timestamp="1627372718476">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1283" height="280" key="GridCell.Tab.2.left/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626949535715" />
-    <state width="1283" height="280" key="GridCell.Tab.2.right" timestamp="1626949535715">
+    <state width="1283" height="263" key="GridCell.Tab.2.left/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627372718476" />
+    <state width="1283" height="263" key="GridCell.Tab.2.right" timestamp="1627372718476">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1283" height="280" key="GridCell.Tab.2.right/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626949535715" />
+    <state width="1283" height="263" key="GridCell.Tab.2.right/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627372718476" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1626942643032">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626942643032" />
-    <state x="293" y="43" key="SettingsEditor" timestamp="1626926163904">
+    <state x="293" y="43" key="SettingsEditor" timestamp="1626954551152">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="293" y="43" key="SettingsEditor/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626926163904" />
+    <state x="293" y="43" key="SettingsEditor/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626954551152" />
     <state x="643" y="202" width="709" height="493" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1626945583431">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -472,20 +645,20 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="571" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626943281890" />
-    <state x="192" y="69" key="new project wizard" timestamp="1626928566927">
+    <state x="192" y="69" key="new project wizard" timestamp="1627345889898">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="131" y="33" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1622862069346" />
-    <state x="192" y="69" key="new project wizard/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626928566927" />
+    <state x="192" y="69" key="new project wizard/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627345889898" />
     <state x="456" y="190" key="run.anything.popup" timestamp="1626847820121">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="456" y="190" key="run.anything.popup/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626847820121" />
-    <state x="405" y="58" width="788" height="676" key="search.everywhere.popup" timestamp="1626950441014">
+    <state x="405" y="58" width="788" height="676" key="search.everywhere.popup" timestamp="1627096500179">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1620527177728" />
-    <state x="405" y="58" width="788" height="676" key="search.everywhere.popup/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1626950441014" />
+    <state x="405" y="58" width="788" height="676" key="search.everywhere.popup/0.0.1600.860/1600.0.1920.1080@0.0.1600.860" timestamp="1627096500179" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -519,6 +692,21 @@
           <url>file://$PROJECT_DIR$/springboot-shiro/shiro-springboot/src/main/java/com/neo/config/UserRealm.java</url>
           <line>52</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-swagger/src/main/java/com/neo/config/SwaggerConfig.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-swagger/src/main/java/com/neo/config/SwaggerConfig.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-layui/src/main/java/com/neo/controller/UserController.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

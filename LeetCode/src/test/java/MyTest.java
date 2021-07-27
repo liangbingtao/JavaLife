@@ -8,14 +8,6 @@ public class MyTest {
 
     @Test
     public void test() {
-        int[] num = new int[3];
-        num[0] = 1;
-        num[1] = 2;
-        num[2] = 3;
 
-        int[] score = num;
-        for (int i = 0; i < score.length; i++) {
-            System.out.println(score[i]);
-        }
     }
 }

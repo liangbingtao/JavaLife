@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot/Springboot.iml" filepath="$PROJECT_DIR$/Springboot/Springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot-Security/Springboot-Security.iml" filepath="$PROJECT_DIR$/Springboot-Security/Springboot-Security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/async/async.iml" filepath="$PROJECT_DIR$/async/async.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-shiro/hello-shiro/hello-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/hello-shiro/hello-shiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaScript.iml" filepath="$PROJECT_DIR$/javaScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-shiro/shiro-springboot/shiro-springboot.iml" filepath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/shiro-springboot.iml" />
@@ -20,8 +21,10 @@
       <module fileurl="file://$PROJECT_DIR$/spring/spring-10-mybatis/spring-10-mybatis.iml" filepath="$PROJECT_DIR$/spring/spring-10-mybatis/spring-10-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-ioc3/spring-ioc3.iml" filepath="$PROJECT_DIR$/spring/spring-ioc3/spring-ioc3.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring01-ioc-hellospring/spring01-ioc-hellospring.iml" filepath="$PROJECT_DIR$/spring/spring01-ioc-hellospring/spring01-ioc-hellospring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-layui/springboot-layui.iml" filepath="$PROJECT_DIR$/springboot-layui/springboot-layui.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern/springboot-security/springboot-security.iml" filepath="$PROJECT_DIR$/DesignPattern/springboot-security/springboot-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" filepath="$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/kuangshen/study.iml" filepath="$PROJECT_DIR$/kuangshen/study.iml" />
     </modules>
   </component>

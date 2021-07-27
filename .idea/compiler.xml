@@ -7,12 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-layui" />
         <module name="spring-04-di" />
         <module name="spring-06-annotation" />
         <module name="DesignPattern" />
         <module name="springbooot-01-helloworld" />
         <module name="spring-08-proxy" />
         <module name="Springboot-Security" />
+        <module name="async" />
+        <module name="springboot-swagger" />
         <module name="hello-shiro" />
         <module name="spring-10-mybatis" />
         <module name="spring01-ioc-hellospring" />
@@ -27,6 +30,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="async" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="DesignPattern" target="1.5" />
       <module name="hello-shiro" target="1.8" />
@@ -47,9 +51,11 @@
       <module name="spring03-ioc2" target="1.5" />
       <module name="springbooot-01-helloworld" target="1.8" />
       <module name="Springboot" target="1.8" />
+      <module name="springboot-layui" target="1.8" />
       <module name="springboot-security" target="1.8" />
       <module name="Springboot-Security" target="1.8" />
       <module name="springboot-shiro" target="1.8" />
+      <module name="springboot-swagger" target="1.8" />
       <module name="sprngboot-01-helloworld" target="1.8" />
       <module name="study" target="1.8" />
     </bytecodeTargetLevel>
