@@ -10,5 +10,11 @@
         <property name="serverTimezone" value="UTC" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="mybatis@localhost" uuid="5cb22cf9-d37b-4516-b707-652430242d5f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/mybatis?serverTimezone=GMT%2B8</jdbc-url>
+    </data-source>
   </component>
 </project>

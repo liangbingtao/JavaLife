@@ -25,6 +25,7 @@
         <option value="$PROJECT_DIR$/springboot-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/async/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-layui/pom.xml" />
+        <option value="$PROJECT_DIR$/excel-util/pom.xml" />
       </list>
     </option>
   </component>

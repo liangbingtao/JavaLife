@@ -38,6 +38,6 @@
   "pkColumn" : null,
   "otherColumn" : null,
   "savePackageName" : "",
-  "savePath" : "./springboot-layui/src/main/java",
+  "savePath" : "./excel-util/src/main/java/com/neo/excelutil",
   "saveModelName" : "springboot-layui"
 }

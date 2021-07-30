@@ -11,6 +11,7 @@
         <module name="spring-04-di" />
         <module name="spring-06-annotation" />
         <module name="DesignPattern" />
+        <module name="excel-util" />
         <module name="springbooot-01-helloworld" />
         <module name="spring-08-proxy" />
         <module name="Springboot-Security" />
@@ -33,6 +34,7 @@
       <module name="async" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="DesignPattern" target="1.5" />
+      <module name="excel-util" target="1.8" />
       <module name="hello-shiro" target="1.8" />
       <module name="LeetCode" target="7" />
       <module name="shiro-springboot" target="1.8" />

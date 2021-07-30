@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Springboot/Springboot.iml" filepath="$PROJECT_DIR$/Springboot/Springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot-Security/Springboot-Security.iml" filepath="$PROJECT_DIR$/Springboot-Security/Springboot-Security.iml" />
       <module fileurl="file://$PROJECT_DIR$/async/async.iml" filepath="$PROJECT_DIR$/async/async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excel-util/excel-util.iml" filepath="$PROJECT_DIR$/excel-util/excel-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-shiro/hello-shiro/hello-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/hello-shiro/hello-shiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaScript.iml" filepath="$PROJECT_DIR$/javaScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-shiro/shiro-springboot/shiro-springboot.iml" filepath="$PROJECT_DIR$/springboot-shiro/shiro-springboot/shiro-springboot.iml" />

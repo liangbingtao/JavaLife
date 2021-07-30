@@ -10,13 +10,13 @@ import java.io.Serializable;
  */
 public class User implements Serializable {
     private static final long serialVersionUID = 282557458762089143L;
-    
+
     private Integer id;
-    
+
     private String name;
-    
+
     private String pwd;
-    
+
     private String perms;
 
 

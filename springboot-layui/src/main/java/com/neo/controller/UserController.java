@@ -9,7 +9,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
-import javax.xml.bind.annotation.XmlType;
 import java.util.List;
 
 /**
@@ -22,9 +21,7 @@ import java.util.List;
 public class UserController {
 
     @GetMapping("/")
-    public String index(Integer page, Integer size, Model model) {
-        model.addAttribute("page", page);
-        model.addAttribute("size", size);
+    public String index() {
         return "table";
     }
 
@@ -40,7 +37,7 @@ public class UserController {
      * @param id 主键
      * @return 单条数据
      */
-    @GetMapping("selectOne")
+    @GetMapping("/selectOne")
     public User selectOne(Integer id) {
         return this.userService.queryById(id);
     }
@@ -61,9 +58,9 @@ public class UserController {
     }
 
     @PostMapping("/delete/{id}")
-    public DataVo delete(@PathVariable("id") Integer id) {
+    public void delete(@PathVariable("id") Integer id) {
         userService.deleteById(id);
-        return DataVo.success(1, null);
+        // return DataVo.success(1, null);
     }
 
 }
